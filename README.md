@@ -1,2 +1,1 @@
-# Project1
-My first project
+# PDF Merger Project
