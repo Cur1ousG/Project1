@@ -1,0 +1,3 @@
+# Manually create valid CSV content
+with open("data/trends.csv", "w") as f:
+    f.write("date,errors,warnings,logins\n")
